@@ -141,7 +141,7 @@ export default function Footer() {
       </Box>
       <Box sx={{ maxWidth: "70%", marginX: "auto" }}>
         <Typography variant="caption" color="white">
-          Copyright © 2022 Movies. All Rights Reserved.
+          Copyright © 2022 Movies. ARG17 All Rights Reserved.
         </Typography>
       </Box>
     </Box>
